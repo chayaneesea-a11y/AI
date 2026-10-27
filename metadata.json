@@ -1,0 +1,6 @@
+{
+  "name": "ระบบบันทึกรายรับ-รายจ่ายและการเงิน",
+  "description": "ระบบบันทึกรายรับ-รายจ่าย แยกสัดส่วนเงินเดือน เงินเก็บ เงินลงทุน พร้อมระบบบันทึกข้อมูลอัตโนมัติและสำรองข้อมูล Google Sheets แบบเรียลไทม์",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
